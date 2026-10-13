@@ -1,0 +1,9 @@
+Customer_ID,Customer_Name,Industry,Risk_Rating,Home_Country,Expected_Monthly_Activity_USD
+C001,Cedar Market,Retail,Medium,US,5200
+C002,Blue Heron Design,Consulting,Low,US,3400
+C003,Atlas Imports,Import / Export,High,US,9800
+C004,Luna Cafe,Restaurant,Low,US,2800
+C005,River Bend Services,Services,Medium,US,4600
+C006,Maple Books,Retail,Low,US,1800
+C007,Summit Supplies,Wholesale,Medium,US,6800
+C008,Orchid Logistics,Transportation,High,US,11500

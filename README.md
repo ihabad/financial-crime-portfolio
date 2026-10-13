@@ -50,3 +50,11 @@ templates/
 **Ihab Diab** — aspiring entry-level AML/KYC / Financial Crime Analyst. Background in customer account operations, quality control, and information systems.
 
 > Portfolio constructed with AI-assisted sample data and draft reports for training. Before describing any case as independently completed, reproduce the analysis, verify the findings, revise the narrative yourself, and be prepared to discuss the work in an interview.
+
+## Extended practical tutorials: Excel and KYB / CDD / EDD
+
+- [Excel VLOOKUP, filtering and PivotTable walkthrough](guides/Excel_VLOOKUP_PivotTable_Guide.md) explains exact-match customer risk lookups, transaction filtering, and how to create an actual Excel PivotTable. The workbook now has a `VLOOKUP Walkthrough` sheet and a `Pivot Summary Example` sheet (precomputed aggregate, **not** an embedded native PivotTable).
+- [Know Your Business (KYB), CDD and EDD walkthrough](guides/KYB_CDD_EDD_Guide.md) extends the business investigation to legal-entity verification, ownership/control, information gaps, risk indicators, and circumstances that could warrant enhanced due diligence.
+- [KYB, CDD and EDD case-study report](reports/04_KYB_CDD_EDD_Case_Study.pdf) is an additional fictional learning artifact; not a real onboarding file or sanctions screen.
+
+These additions are educational demonstrations and must be independently practiced and validated before representing them as personally completed casework.
